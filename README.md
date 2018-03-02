@@ -2,7 +2,7 @@
 ## This is Project Sunshine
 
 This project main idea is to use weather service API to get the weather according to your preferences ex. type of degree for
-tempreature (celecius or Fahrenhite) and your location.
+Temperature (fahrenheit or celsius) and your location.
 
 ### This is the Main Activity of the app
 ![alt text](https://github.com/Mahmoud-Khaled-Nasr/Android-Project-Sample/blob/master/Sample%20images/Main%20Activity.PNG)
@@ -10,7 +10,7 @@ tempreature (celecius or Fahrenhite) and your location.
 ### Detailed View Activity of the weather
 ![alt text](https://github.com/Mahmoud-Khaled-Nasr/Android-Project-Sample/blob/master/Sample%20images/Detail%20Weathear%20Activity.PNG)
 
-### Different settings using persistant file
+### Different settings using persistent file
 ![alt text](https://github.com/Mahmoud-Khaled-Nasr/Android-Project-Sample/blob/master/Sample%20images/Setting.PNG)
 
 ### Also you can use Google Maps app to view location if needed
